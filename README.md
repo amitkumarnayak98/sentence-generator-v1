@@ -191,11 +191,6 @@ flowchart TD
 </p>
 &nbsp;&nbsp;&nbsp;
 <p align="center">
-<a href="https://www.kaggle.com/" target="_blank">
+<a href="https://www.kaggle.com/code/nyamit2000/mistral-7b-2000ep-v1">
   <img height="60"  src="https://cdn.simpleicons.org/kaggle/20BEFF"/>
 </a></p>
-
-
-
-## 🧩 System Architecture — Retrieval-Aware Emotional Training Pipeline
-https://colab.research.google.com/#fileId=https://huggingface.co/ny-amit111/sentence_generator-v1/blob/main/generator_motor%20(1).ipynb
